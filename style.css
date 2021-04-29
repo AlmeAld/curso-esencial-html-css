@@ -1,0 +1,16 @@
+.header-background {
+  height: 350px;
+  background: linear-gradient(
+      3.36deg,
+      #212325 -63.62%,
+      rgba(255, 255, 255, 0) 43.49%
+    ),
+    url(./images/nemium-1.png);
+  background-size: 103px;
+}
+
+h1 {
+  font-size: 60px;
+  line-height: 70px;
+  color: #212121;
+}
